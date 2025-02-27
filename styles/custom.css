@@ -1,0 +1,32 @@
+/* styles/custom.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.text-primary {
+    color: #00AEEF !important; /* Celeste de tu marca */
+}
+
+.bg-black {
+    background-color: #000 !important;
+}
+
+.btn-primary {
+    background-color: #00AEEF;
+    border-color: #008CBA;
+}
+
+.btn-primary:hover {
+    background-color: #008CBA;
+    border-color: #0077A3;
+}
+
+.list-group-item {
+    border: none;
+    font-size: 1.1rem;
+}
+
+footer {
+    margin-top: 20px;
+}
