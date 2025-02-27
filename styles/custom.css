@@ -30,3 +30,27 @@ body {
 footer {
     margin-top: 20px;
 }
+.installation-step {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.installation-step h4 {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.step-img, .qr-img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.qr-img {
+    max-width: 200px;
+}
